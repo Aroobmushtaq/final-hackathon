@@ -1,18 +1,3 @@
-// const mongoose = require('mongoose');
-
-// const noteSchema = new mongoose.Schema(
-//   {
-//     title: { type: String, required: true },
-//     content: { type: String, required: true },
-//     subject: { type: String, required: true }, // Add subject field
-//     collaborators: { type: [String], required: false },
-//     user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true }, // Reference to the user who created the note
-//   },
-//   { timestamps: true } // Automatically add createdAt and updatedAt fields
-// );
-
-// const Note = mongoose.model('Note', noteSchema);
-// module.exports = Note;
 
 const mongoose = require('mongoose');
 
