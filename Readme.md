@@ -1,3 +1,5 @@
-##  Demo Video
+# Demo Video
 
-[![Watch the Video]](https://drive.google.com/file/d/1ZMjTPXkauCoUKv7M5QdFmptS6LLKka_P/view?usp=sharing)
+To view my final Hackathon project at SMIT, click the video below:
+
+[![Watch the Video](https://via.placeholder.com/800x450.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1ZMjTPXkauCoUKv7M5QdFmptS6LLKka_P/view?usp=sharing)
